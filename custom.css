@@ -1,0 +1,70 @@
+
+.splash {
+    margin-top: 150px;
+    width: 100%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#branding h1{
+	margin-left: 20px;
+	color: #F5FFFA;
+}
+
+#movie-list{
+background: #2C3E50; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #2C3E50 , #4CA1AF); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #2C3E50 , #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ui-content{
+	background: #2C3E50; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #2C3E50 , #4CA1AF); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #2C3E50 , #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+label{
+	font-weight: bold;
+}
+
+#branding{
+	font-family: 'Raleway', sans-serif;
+}
+.ui-page-theme-a .ui-bar-inherit{
+background: #2C3E50; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #2C3E50 , #4CA1AF); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #2C3E50 , #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+.ui-input-btn input{
+	background:white;
+}
+
+img{
+	border-style: inset;
+	border-width: 5px;
+}
+h4{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+}
+#movie-detail h1{
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+	color:#F5FFFA;
+}
+.ui-page-theme-a .ui-btn{
+	background: #FF4500;
+}
+
+.ui-page-theme-a .ui-btn:hover{
+	background: #FF4500;
+	color: white;
+}
+
+#movie-detail .ui-page-theme-a .ui-btn:hover{
+	background: #FF4500;
+}
+
+a{
+	text-decoration: none;
+}
